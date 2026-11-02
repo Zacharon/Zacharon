@@ -1,0 +1,23 @@
+{
+  "repository": "Zacharon/netbox-mcp-server",
+  "sourceCommit": "8850301ab542565f37cef39c6c1523c86ec2a02e",
+  "scope": "Selected-entry overview; shows representative public files and package boundaries, not an exhaustive dependency or route inventory.",
+  "selectedPublicFiles": [
+    "README.md",
+    "pyproject.toml",
+    "src/netbox_mcp_server/__init__.py",
+    "src/netbox_mcp_server/__main__.py",
+    "src/netbox_mcp_server/config.py",
+    "src/netbox_mcp_server/netbox_client.py",
+    "src/netbox_mcp_server/netbox_types.py",
+    "src/netbox_mcp_server/server.py"
+  ],
+  "mappedFiles": 8,
+  "nodes": 2,
+  "exportSha256": "3a19295d773aecac972ca91654473b5886daed92fc082302ffa515278754a9c6",
+  "staticParity": "PASS",
+  "privacy": "PASS: public Git blobs only; local root, private notes, Health and recent data omitted",
+  "scriptSyntax": "PASS",
+  "browserInteraction": "NOT RUN",
+  "applicationTests": "NOT RUN"
+}

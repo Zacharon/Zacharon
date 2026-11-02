@@ -1,0 +1,16 @@
+{
+  "repository": "Zacharon/Zacharon",
+  "sourceCommit": "d2c7b02ab74186de1cd633b6f31ea5d635c79fa4",
+  "scope": "Selected-entry overview; shows representative public files and package boundaries, not an exhaustive dependency or route inventory.",
+  "selectedPublicFiles": [
+    "README.md"
+  ],
+  "mappedFiles": 1,
+  "nodes": 1,
+  "exportSha256": "6287258844abd64ab0ac53e8f4b67c2364e6db06fa5cef3a38fdb7200b9aa372",
+  "staticParity": "PASS",
+  "privacy": "PASS: public Git blobs only; local root, private notes, Health and recent data omitted",
+  "scriptSyntax": "PASS",
+  "browserInteraction": "NOT RUN",
+  "applicationTests": "NOT RUN"
+}

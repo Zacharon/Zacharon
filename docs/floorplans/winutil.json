@@ -1,0 +1,25 @@
+{
+  "repository": "Zacharon/winutil",
+  "sourceCommit": "b427d5a97d9a2f1a454b7a1b77909bf2685ee47e",
+  "scope": "Selected-entry overview; shows representative public files and package boundaries, not an exhaustive dependency or route inventory.",
+  "selectedPublicFiles": [
+    "README.md",
+    "SPEC.md",
+    "Compile.ps1",
+    "windev.ps1",
+    "functions/private/Start-WinUtilUserInterface.ps1",
+    "functions/private/Start-WinUtilJob.ps1",
+    "functions/private/Step-WinUtilJob.ps1",
+    "functions/private/Invoke-WinUtilTweaks.ps1",
+    "functions/private/Set-WinUtilRegistry.ps1",
+    "config/tweaks.json"
+  ],
+  "mappedFiles": 10,
+  "nodes": 3,
+  "exportSha256": "a9e42b9a88838dc44e40805b0168695621fce89447f96e6c890b40f63659d3fc",
+  "staticParity": "PASS",
+  "privacy": "PASS: public Git blobs only; local root, private notes, Health and recent data omitted",
+  "scriptSyntax": "PASS",
+  "browserInteraction": "NOT RUN",
+  "applicationTests": "NOT RUN"
+}

@@ -1,4 +1,13 @@
 Hi, I'm Zach
+
+<!-- public-floorplan:start -->
+## Explore the architecture
+
+[**Open the interactive Floorplan**](https://zacharon.github.io/Zacharon/floorplans/Zacharon.html) · [Standalone HTML file](docs/floorplan.html)
+
+A map of this repository’s public source at `d2c7b02a`. Selected-entry overview; shows representative public files and package boundaries, not an exhaustive dependency or route inventory.
+<!-- public-floorplan:end -->
+
 I build tools that pull public information together and show where every piece came from, mostly civic data and open-source intelligence.
 
 Live Map puts earthquakes, storms, disasters and weather alerts from USGS, NASA, NOAA and GDACS on one live map, each linked to the original report. (code)

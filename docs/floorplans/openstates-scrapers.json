@@ -1,0 +1,22 @@
+{
+  "repository": "Zacharon/openstates-scrapers",
+  "sourceCommit": "68588fa0758307286c4f8bac05fa81d93170c04a",
+  "scope": "Selected-entry overview; shows representative public files and package boundaries, not an exhaustive dependency or route inventory.",
+  "selectedPublicFiles": [
+    "README.md",
+    "pyproject.toml",
+    "docker_entrypoint.sh",
+    "jurisdiction_configs.json",
+    "scrapers/oh/bills.py",
+    "scrapers/ca/bills.py",
+    "scrapers/oh/__init__.py"
+  ],
+  "mappedFiles": 7,
+  "nodes": 2,
+  "exportSha256": "850922221b1ba54b124ba8124a20f5791df739853cce61472c372b63e458160e",
+  "staticParity": "PASS",
+  "privacy": "PASS: public Git blobs only; local root, private notes, Health and recent data omitted",
+  "scriptSyntax": "PASS",
+  "browserInteraction": "NOT RUN",
+  "applicationTests": "NOT RUN"
+}
