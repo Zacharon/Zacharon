@@ -18,4 +18,4 @@ I build tools that pull public information together and show where every piece c
 - [AEOS](https://github.com/Zacharon/AEOS) is how I work with coding agents. Project facts live in files, each session gets a bounded handoff, and nothing becomes trusted knowledge until I approve it.
 - Merged scraper fixes in [Open States](https://github.com/openstates/openstates-scrapers/pulls?q=is%3Amerged+author%3AZacharon): Ohio bill actions, West Virginia Senate roll calls, and Colorado committee votes.
 
-I also run a small home lab: a private network with a written access split, hardened DNS and monitoring, phone alerts, and encrypted backups with a checked restore. Addresses and passwords are not on this page.
+I also run a small home lab: a private network with a written access split, hardened DNS and monitoring, phone alerts, and encrypted backups with a checked restore.
